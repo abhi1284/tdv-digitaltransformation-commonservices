@@ -1,10 +1,9 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<!-- salt:4564bef3-5a9d-460f-a49a-4936205e1977 -->
+<!-- salt:70c659bd-7caf-4f23-91dc-347ee7a2825e -->
 <metadata name="3.Utilities" path="/shared/DigitalTransformation/CommonServices/3.Utilities" type="CONTAINER" subtype="FOLDER" changeToken="0">
   <security>
     <owner user="admin" domain="composite"/>
     <privilege user="anonymous" domain="composite" privileges="READ"/>
-    <privilege group="all" domain="composite" privileges="NONE"/>
     <privilege group="digitaltransformation" domain="composite" privileges="READ WRITE EXECUTE SELECT UPDATE INSERT DELETE GRANT"/>
   </security>
   <attribute name="creationDate" type="LONG">1590603017759</attribute>
