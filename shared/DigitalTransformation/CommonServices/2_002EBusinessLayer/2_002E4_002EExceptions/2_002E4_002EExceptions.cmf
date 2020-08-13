@@ -1,0 +1,19 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!-- salt:4564bef3-5a9d-460f-a49a-4936205e1977 -->
+<metadata name="2.4.Exceptions" path="/shared/DigitalTransformation/CommonServices/2.BusinessLayer/2.4.Exceptions" type="CONTAINER" subtype="FOLDER" changeToken="0">
+  <security>
+    <owner user="admin" domain="composite"/>
+    <privilege user="anonymous" domain="composite" privileges="READ"/>
+    <privilege group="all" domain="composite" privileges="NONE"/>
+    <privilege group="digitaltransformation" domain="composite" privileges="READ WRITE EXECUTE SELECT UPDATE INSERT DELETE GRANT"/>
+  </security>
+  <attribute name="creationDate" type="LONG">1590603321665</attribute>
+  <attribute name="creatorUserDomain" type="STRING">composite</attribute>
+  <attribute name="creatorUserId" type="INTEGER">-1973</attribute>
+  <attribute name="creatorUserName" type="STRING">admin</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1596747389828</attribute>
+  <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
+  <attribute name="lastModifiedUserId" type="INTEGER">-1973</attribute>
+  <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
+  <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">1590603321665</attribute>
+</metadata>
