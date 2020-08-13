@@ -1,0 +1,9 @@
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Inventory DATA_SOURCE user tutorial
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Inventory DATA_SOURCE port 9208
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Inventory DATA_SOURCE password A49A5A0FAFF13F4A
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Inventory DATA_SOURCE host localhost
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Orders DATA_SOURCE user tutorial
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Orders DATA_SOURCE port 9208
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Orders DATA_SOURCE password A49A5A0FAFF13F4A
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_Orders DATA_SOURCE host localhost
+-set /shared/DigitalTransformation/App_01/1.PhysicalLayer/ds_shippingContactDetails DATA_SOURCE host /opt/TIBCO/tdv_files2/
